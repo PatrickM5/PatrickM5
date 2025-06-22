@@ -1,27 +1,15 @@
 # Hi there 👋, I’m Patrick
 
 ### 🔭 I'm working on...
-Currently building a robust M‑PESA integration API with strong security and failure-handling.
+Currently building a robust POS Management System.
 
 ### 🛠 Tech Stack
 - **Languages**: Java, JavaScript, Python  
-- **Frameworks/Tools**: Spring Boot, Express.js, Apigee, Docker
-
-### 🗂 Pinned Projects
-| Project | Description |
-|---|---|
-| [mpesa-integration](link) | REST/SOAP API integration, OAuth 2.0, Apigee gateway |
-| [awesome-tool](link) | Description here... |
-
-### 📊 Github Stats
-![Your Stats](...)
-![Streak](...)
-![Visitor Count](...)
-
-### 🎧 Now Playing / 📝 Latest Blog
-- 🎧 [Spotify now playing…]
-- 📝 [Latest article…]()
+- **Frameworks/Tools**: Spring Boot, Node.js, Express.js, Apigee, Docker
 
 ### 👇 Let’s connect
 - 💼 Looking for: full-time backend/SRE roles  
-- 📫 How to reach me: [LinkedIn](…), [Email](…)  
+- 📫👇 How to reach me  
+- [LinkedIn](https://www.linkedin.com/in/patrick-mutugi-960152107/)  
+- [Email](mailto:patrickmutugi5@gmail.com)
+
