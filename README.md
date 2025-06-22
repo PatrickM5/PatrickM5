@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @PatrickM5
-- 👀 I’m interested in Coding and Exploiting new code challenges
-- 🌱 I’m currently learning Javascript technologies
-- 💞️ I’m looking to collaborate on any enganging project
-- 📫 How to reach me: send mail to patrickmutugi5@gmail.com
+# Hi there 👋, I’m Patrick
 
-<!---
-PatrickM5/PatrickM5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔭 I'm working on...
+Currently building a robust M‑PESA integration API with strong security and failure-handling.
+
+### 🛠 Tech Stack
+- **Languages**: Java, JavaScript, Python  
+- **Frameworks/Tools**: Spring Boot, Express.js, Apigee, Docker
+
+### 🗂 Pinned Projects
+| Project | Description |
+|---|---|
+| [mpesa-integration](link) | REST/SOAP API integration, OAuth 2.0, Apigee gateway |
+| [awesome-tool](link) | Description here... |
+
+### 📊 Github Stats
+![Your Stats](...)
+![Streak](...)
+![Visitor Count](...)
+
+### 🎧 Now Playing / 📝 Latest Blog
+- 🎧 [Spotify now playing…]
+- 📝 [Latest article…]()
+
+### 👇 Let’s connect
+- 💼 Looking for: full-time backend/SRE roles  
+- 📫 How to reach me: [LinkedIn](…), [Email](…)  
